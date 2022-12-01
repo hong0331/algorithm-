@@ -25,6 +25,7 @@ class Solution(object):
         
 
     '''
+       Time complexity = O(n^2) 
        localname=localname.replace('.','') => problem 1: remove '.' in the domain name 
 
 
